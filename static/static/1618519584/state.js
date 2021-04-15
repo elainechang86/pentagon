@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fpentagon\u002Fstatic\u002Fstatic\u002F1618519584",layout:"default",error:a,serverRendered:true,routePath:"\u002F",config:{_app:{basePath:"\u002Fpentagon\u002F",assetsPath:"\u002Fpentagon\u002Fstatic\u002F",cdnURL:a}}}}(null));
