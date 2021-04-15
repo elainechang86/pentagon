@@ -1,4 +1,5 @@
 export default {
+
     // components: {
     //   cartForm,
     // },
@@ -113,7 +114,7 @@ export default {
                     body: new FormData(document.getElementById('shit')),
                 })
                     .then(console.log('hi'))
-                    
+
             })
         },
         // 切換 產品列表 / 購物車 的 tab
